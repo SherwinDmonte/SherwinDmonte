@@ -1,3 +1,4 @@
+![logo](https://github.com/SherwinDmonte/SherwinDmonte/blob/main/cc.jpg)
 <h1 align="center">Hi 👋, I'm Sherwin Dmonte</h1>
 <h3 align="center">A passionate Engineer!!</h3>
 
